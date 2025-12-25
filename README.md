@@ -1,30 +1,6 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=28
-&duration=2500
-&pause=800
-&color=38BDF8
-&center=true
-&vCenter=true
-&width=700
-&lines=Hi+I'm+Dipanshu+Jindal+%F0%9F%91%8B;
-B.Tech+AI+%26+Data+Science+Student;
-Future+AI+Engineer+%7C+App+Developer;
-Building+Real-World+Tech+Solutions
-" />
+![Profile Views](https://komarev.com/ghpvc/?username=jindaldipanshu23-glitch&color=blue)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?
-type=rect
-&color=gradient
-&height=4
-&section=header
-" />
-
-</div>
 
 
 💫 Hi 👋, I'm Deepanshu Jindal
