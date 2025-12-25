@@ -37,9 +37,12 @@ I am passionate about learning new tech, collaborating on innovative projects, a
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dipanshu Jindal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dipanshu Jindal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu Jindal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jindaldipanshu23-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=jindaldipanshu23-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jindaldipanshu23-glitch&theme=dark&hide_border=false)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dipanshu Jindal&theme=dark&no-frame=false&no-bg=true&margin-w=4)
