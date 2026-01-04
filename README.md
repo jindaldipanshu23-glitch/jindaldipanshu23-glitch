@@ -33,7 +33,7 @@ I am passionate about learning new tech, collaborating on innovative projects, a
 </div>
 
 
-## 🌐 Socials:
+## 🌐 Socials:-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dipanshujindal.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dipanshujindal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dipanshu_jindal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DipanshuJindal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jindal_dip66120) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Team - EXO Genius) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jindaldipanshu23@gmai.com) 
 
 # 💻 Tech Stack:
