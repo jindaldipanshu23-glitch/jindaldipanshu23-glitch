@@ -1,77 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25c6f0,100:0088ff&height=250&section=header&text=Deepanshu%20Jindal&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20%26%20Python%20Developer%20|%20B.Tech%20Student&descAlignY=55&descAlign=50" alt="Banner" />
 
-  <p align="center">
-    <a href="https://github.com/jindaldipanshu23-glitch"><img src="https://komarev.com/ghpvc/?username=jindaldipanshu23-glitch&color=25c6f0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Deepanshu%20Jindal&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Building%20AI%20&%20Python%20Masterpieces&descAlignY=60&descAlign=50" alt="Banner" />
 
-<br>
+<a href="https://github.com/jindaldipanshu23-glitch">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Me" />
+</a>
 
-<div align="center">
+<br><br>
 
-```javascript
-const developer = {
-  name: "Deepanshu Jindal",
-  role: "AI & Python Developer",
-  education: "B.Tech in AI & Data Science (India 🇮🇳)",
-  passions: ["Building AI Web Apps", "Winning Hackathons", "Open Source"],
-  currentProject: "smart-advocate.streamlit.app",
-  achievements: [
-    "🥇 IIT Delhi Hackathon",
-    "🚀 NASA Space App Challenge"
-  ],
-  sayHi: function() {
-    return "Hit me up for collabs or hackathons!";
-  }
-};
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science+Student;Passionate+Python+Developer;Hackathon+Champion+🏆;Exploring+the+Future+of+AI+🤖" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 💻 **Tech Arsenal**
+### 🚀 **About Me**
+
+<div align="center">
+  <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer Animation" />
+</div>
+
+- 🔭 **Innovating at**: AI-powered platforms like *[smart-advocate.streamlit.app](https://smart-advocate.streamlit.app)*.
+- 👨‍💻 **Tech Arsenal**: Deep diving into Python, Streamlit, and Advanced Data Science libraries.
+- 🏆 **Wins**: Proud participant & winner at the **IIT Delhi Hackathon** and **NASA Space App Challenge**.
+- 🤝 **Collaboration**: Always open for Hackathons, Open Source contributions, and AI SaaS projects.
+- 📫 **Contact Me**: [jindaldipanshu23@gmail.com](mailto:jindaldipanshu23@gmail.com)
+
+<br><br>
+
+---
+
+### 💻 **Tech Stack & Weapons**
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=fastapi,firebase,flutter,streamlit,pandas&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,git&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=fastapi,firebase,flutter,streamlit,pandas,numpy&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=github,vercel,figma,blender,vscode,linux&theme=dark" />
   </a>
 </div>
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📊 **Real-Time Analytics**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=jindaldipanshu23-glitch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindaldipanshu23-glitch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=jindaldipanshu23-glitch&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindaldipanshu23-glitch&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
   
-  <br>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jindaldipanshu23-glitch&theme=tokyo-night&bg_color=1a1b26&color=25c6f0&line=25c6f0&point=ffffff&hide_border=true" alt="Activity Graph" />
-
   <br><br>
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jindaldipanshu23-glitch&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
+  <!-- Animated Glowing Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jindaldipanshu23-glitch&theme=xcode&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
-### 🐍 **Contribution Matrix**
+### 🏆 **Achievements & Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jindaldipanshu23-glitch&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
+</div>
+
+---
+
+### 🐍 **The Contribution Matrix (Snake Animation)**
 
 <div align="center">
   <picture>
@@ -83,7 +78,7 @@ const developer = {
 
 ---
 
-### 📡 **Transmission Links**
+### 🌐 **Connect To My Network**
 
 <div align="center">
   <a href="mailto:jindaldipanshu23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -95,10 +90,9 @@ const developer = {
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25c6f0,100:0088ff&height=80&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Banner" />
 </div>
