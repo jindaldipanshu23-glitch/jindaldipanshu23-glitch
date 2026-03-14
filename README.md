@@ -1,65 +1,84 @@
-
-![Profile Views](https://komarev.com/ghpvc/?username=jindaldipanshu23-glitch&color=blue)
-
-
-
-💫 Hi 👋, I'm Deepanshu Jindal
-
-A passionate AI & Python Developer || B.Tech Student || Hackathon Enthusiast from India 🇮🇳
-
-🔭 I’m currently working on: AI & Python projects, including smart-advocate.streamlit.app and backend development for hackathon projects
-
-🌱 I’m currently learning: Advanced Python libraries, Streamlit, AI & Data Science concepts, and backend development
-
-👯 I’m looking to collaborate on: AI, Python, and web app projects with social impact and real-world applications
-
-🤔 I’m looking for help with: Improving AI projects, Streamlit apps, and hackathon preparation
-
-💬 Ask me about: Python, AI, Streamlit, hackathons, and project building
-
-📫 How to reach me: jindaldipanshu23@gmail.com
-
-⚡ Fun fact: Participated in IIT Delhi Hackathon and NASA Space App Challenge; building solutions to help students and lawyers 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=jindaldipanshu23-glitch&color=blue)
-
-
-I am a B.Tech student specializing in AI & Data Science and a Python developer from India.
-I build AI-powered web apps, participate in hackathons, and work on projects that create real-world impact.
-I am passionate about learning new tech, collaborating on innovative projects, and helping students and professionals through smart solutions.
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=jindaldipanshu23-glitch&color=blueviolet&style=flat-square&label=Profile%20Views)
+
+### 🚀 **Welcome to my Tech Universe!** 🌌
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25C6F0&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Deepanshu+Jindal+👋;AI+%26+Python+Developer+🧠;Hackathon+Enthusiast+🏆;Building+Web+Apps+with+Streamlit+🚀" alt="Typing SVG" />
+
 </div>
 
+---
 
-## 🌐 Socials:-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dipanshujindal.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dipanshu_jindal_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jindal_dip66120) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jindaldipanshu23@gmai.com) 
+### 💫 About Me 
+*A passionate AI & Python Developer || B.Tech Student specializing in AI & Data Science from India 🇮🇳*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+- 🔭 **I’m currently working on**: AI-powered projects like *[smart-advocate.streamlit.app](https://smart-advocate.streamlit.app)* and backend development for hackathons.
+- 🌱 **I’m currently learning**: Advanced Python libraries, Streamlit integrations, Data Science concepts.
+- 👯 **I’m looking to collaborate on**: Open-source AI projects, Web apps with social impact, and innovative real-world solutions.
+- 🤔 **I’m looking for help with**: Optimizing Streamlit apps and preparing for competitive hackathons.
+- 💬 **Ask me about**: Python, AI frameworks, Streamlit, and building projects from scratch!
+- 📫 **How to reach me**: [jindaldipanshu23@gmail.com](mailto:jindaldipanshu23@gmail.com)
+- ⚡ **Fun fact**: I participated in the IIT Delhi Hackathon and the NASA Space Apps Challenge, creating solutions for lawyers and students! 🚀
 
+---
 
+### 🛠️ Languages & Tools
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=firebase,fastapi,flutter,streamlit,pandas" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,vscode" />
+</div>
 
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jindaldipanshu23-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats & Trophies
 
-![](https://github-readme-stats.vercel.app/api?username=jindaldipanshu23-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jindaldipanshu23-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindaldipanshu23-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jindaldipanshu23-glitch&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br>
+  <br>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jindaldipanshu23-glitch&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="Trophies" />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jindaldipanshu23-glitch&theme=dark&hide_border=false)
+---
 
+### 🐍 Contribution Activity
 
-### 🏆 Hackathons & Achievements
-- 🥇 IIT Delhi Hackathon – AI & Backend
-- 🚀 NASA Space App Challenge – Exo Scan Web
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jindaldipanshu23-glitch/jindaldipanshu23-glitch/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jindaldipanshu23-glitch/jindaldipanshu23-glitch/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jindaldipanshu23-glitch/jindaldipanshu23-glitch/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jindaldipanshu23-glitch&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🌐 Connect with Me:
 
+<div align="center">
+  <a href="mailto:jindaldipanshu23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://discord.gg/dipanshujindal."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/_dipanshu_jindal_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/jindal_dip66120"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"></a>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
