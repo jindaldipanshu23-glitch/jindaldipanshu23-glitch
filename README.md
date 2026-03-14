@@ -1,84 +1,104 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25c6f0,100:0088ff&height=250&section=header&text=Deepanshu%20Jindal&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20%26%20Python%20Developer%20|%20B.Tech%20Student&descAlignY=55&descAlign=50" alt="Banner" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=jindaldipanshu23-glitch&color=blueviolet&style=flat-square&label=Profile%20Views)
-
-### 🚀 **Welcome to my Tech Universe!** 🌌
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25C6F0&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Deepanshu+Jindal+👋;AI+%26+Python+Developer+🧠;Hackathon+Enthusiast+🏆;Building+Web+Apps+with+Streamlit+🚀" alt="Typing SVG" />
-
+  <p align="center">
+    <a href="https://github.com/jindaldipanshu23-glitch"><img src="https://komarev.com/ghpvc/?username=jindaldipanshu23-glitch&color=25c6f0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  </p>
 </div>
 
----
-
-### 💫 About Me 
-*A passionate AI & Python Developer || B.Tech Student specializing in AI & Data Science from India 🇮🇳*
-
-- 🔭 **I’m currently working on**: AI-powered projects like *[smart-advocate.streamlit.app](https://smart-advocate.streamlit.app)* and backend development for hackathons.
-- 🌱 **I’m currently learning**: Advanced Python libraries, Streamlit integrations, Data Science concepts.
-- 👯 **I’m looking to collaborate on**: Open-source AI projects, Web apps with social impact, and innovative real-world solutions.
-- 🤔 **I’m looking for help with**: Optimizing Streamlit apps and preparing for competitive hackathons.
-- 💬 **Ask me about**: Python, AI frameworks, Streamlit, and building projects from scratch!
-- 📫 **How to reach me**: [jindaldipanshu23@gmail.com](mailto:jindaldipanshu23@gmail.com)
-- ⚡ **Fun fact**: I participated in the IIT Delhi Hackathon and the NASA Space Apps Challenge, creating solutions for lawyers and students! 🚀
-
----
-
-### 🛠️ Languages & Tools
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=firebase,fastapi,flutter,streamlit,pandas" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,vscode" />
+
+```javascript
+const developer = {
+  name: "Deepanshu Jindal",
+  role: "AI & Python Developer",
+  education: "B.Tech in AI & Data Science (India 🇮🇳)",
+  passions: ["Building AI Web Apps", "Winning Hackathons", "Open Source"],
+  currentProject: "smart-advocate.streamlit.app",
+  achievements: [
+    "🥇 IIT Delhi Hackathon",
+    "🚀 NASA Space App Challenge"
+  ],
+  sayHi: function() {
+    return "Hit me up for collabs or hackathons!";
+  }
+};
+```
 </div>
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 💻 **Tech Arsenal**
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=fastapi,firebase,flutter,streamlit,pandas&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,vscode&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 📊 **GitHub Analytics**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jindaldipanshu23-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=jindaldipanshu23-glitch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
       </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindaldipanshu23-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindaldipanshu23-glitch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
       </td>
     </tr>
   </table>
   
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jindaldipanshu23-glitch&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <br>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jindaldipanshu23-glitch&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="Trophies" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jindaldipanshu23-glitch&theme=tokyo-night&bg_color=1a1b26&color=25c6f0&line=25c6f0&point=ffffff&hide_border=true" alt="Activity Graph" />
+
+  <br><br>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jindaldipanshu23-glitch&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 **Contribution Matrix**
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jindaldipanshu23-glitch/jindaldipanshu23-glitch/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jindaldipanshu23-glitch/jindaldipanshu23-glitch/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jindaldipanshu23-glitch/jindaldipanshu23-glitch/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jindaldipanshu23-glitch/jindaldipanshu23-glitch/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-### 🌐 Connect with Me:
+### 📡 **Transmission Links**
 
 <div align="center">
   <a href="mailto:jindaldipanshu23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://discord.gg/dipanshujindal."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://instagram.com/_dipanshu_jindal_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/jindal_dip66120"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://discord.gg/dipanshujindal."><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/_dipanshu_jindal_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/jindal_dip66120"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"></a>
 </div>
 
+<br>
+
 <div align="center">
-  <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25c6f0,100:0088ff&height=80&section=footer" alt="Footer Banner" />
 </div>
