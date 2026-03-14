@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Deepanshu%20Jindal&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Building%20AI%20&%20Python%20Masterpieces&descAlignY=60&descAlign=50" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Dipanshu%20Jindal&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Building%20AI%20&%20Python%20Masterpieces&descAlignY=60&descAlign=50" alt="Banner" />
 
 <a href="https://github.com/jindaldipanshu23-glitch">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Me" />
